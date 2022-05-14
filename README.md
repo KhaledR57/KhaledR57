@@ -18,7 +18,7 @@ programming-languages:
   - c/c++
 ```
 
-<p align="center"><img width="100%" src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p>
 
 <!-- <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
