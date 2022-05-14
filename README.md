@@ -26,7 +26,7 @@ programming-languages:
 
 - ## 📫 How to reach me
   <p align="center">
-  <a href="https://www.linkedin.com/in/khaledr57/">
+  <a href="https://www.linkedin.com/in/khaledr57/" target="_blank">
     <img src="https://img.shields.io/badge/KhaledR57-linkedin-blue?style=flat&logo=linkedin">
   </a><a href="mailto:khaledriyad57@gmail.com">
     <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
@@ -34,7 +34,7 @@ programming-languages:
   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
     <img src="https://img.shields.io/badge/Khaled%20Riyad-youtube-red?style=flat&logo=youtube">
   </a>
-  <a href="#https://img.shields.io/badge/Khaled57%234672-discord-bluehttps://img.shields.io/badge/Khaled57%234672-discord-blue">
+  <a href="#">
     <img src="https://img.shields.io/badge/Khaled57%234672-discord-blue?style=flat&logo=discord">
   </a>
   </p>
