@@ -34,6 +34,9 @@ programming-languages:
   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
     <img src="https://img.shields.io/badge/Khaled%20Riyad-youtube-red?style=flat&logo=youtube">
   </a>
+  <a href="#https://img.shields.io/badge/Khaled57%234672-discord-bluehttps://img.shields.io/badge/Khaled57%234672-discord-blue">
+    <img src="https://img.shields.io/badge/Khaled57%234672-discord-blue?style=flat&logo=discord">
+  </a>
   </p>
 <!--
 **KhaledR57/KhaledR57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
