@@ -25,6 +25,7 @@ programming-languages:
 </p> -->
 
 - ## 📫 How to reach me
+  <p align="center">
   <a href="https://www.linkedin.com/in/khaledr57/">
     <img src="https://img.shields.io/badge/KhaledR57-linkedin-blue?style=flat&logo=linkedin">
   </a><a href="mailto:khaledriyad57@gmail.com">
@@ -33,7 +34,7 @@ programming-languages:
   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
     <img src="https://img.shields.io/badge/Khaled%20Riyad-youtube-red?style=flat&logo=youtube">
   </a>
-
+  </p>
 <!--
 **KhaledR57/KhaledR57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
