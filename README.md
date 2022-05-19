@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/>
 
 ``` yaml
 name: KhaledR57
@@ -16,13 +16,8 @@ programming-languages:
   - java
   - python
   - c/c++
-``` 
-<span>
-<p align=center>
-<img align="center"  src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="50.5%"/>
-<p/>
+```
 
-  
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p>
 
 <!-- <p align="center">
