@@ -3,8 +3,8 @@
 
 <!-- <img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/> -->
 
-<picture align="right"  width="53.5px">
-  <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"   width="53.5px">
+<picture align="right"  width="53.5%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"   width="53.5%">
   <img  align="right"   alt="" src=""   width="53.5%">
 </picture>
 
