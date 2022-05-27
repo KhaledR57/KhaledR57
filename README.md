@@ -28,7 +28,7 @@ programming-languages:
 <p align="center"> 
   <picture align="center">
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_light" >
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledR57" >
   </picture>
   <!--   <img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p> -->
 </p>
