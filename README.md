@@ -5,7 +5,7 @@
 
 <picture align="right"  width="53.5px">
   <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"   width="53.5px">
-  <img  align="right"   alt="" src=""    width="53.5%">
+  <img  align="right"   alt="" src=""   width="53.5%">
 </picture>
 
 
@@ -25,8 +25,13 @@ programming-languages:
   - c/c++
 ```
 
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p>
-
+<p align="center"> 
+  <picture align="center">
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark" >
+  </picture>
+  <!--   <img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p> -->
+</p>
 <!-- <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
