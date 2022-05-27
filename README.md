@@ -26,11 +26,11 @@ programming-languages:
 ```
 
 <p align="center"> 
-  <picture align="center">
+<!--   <picture align="center">
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledR57" >
-  </picture>
-  <!--   <img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark"/></p> -->
+  </picture> -->
+    <img src = "https://github-readme-stats.vercel.app/api?username=KhaledR57&theme=github_dark">
 </p>
 <!-- <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
