@@ -1,7 +1,12 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/>
+<!-- <img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/> -->
+
+<picture align="right"  width="53.5px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"   width="53.5px">
+  <img  align="right"   alt="" src=""    width="53.5%">
+</picture>
 
 
 ``` yaml
