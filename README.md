@@ -9,7 +9,7 @@ $$ -->
 <!-- <img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/> -->
 
 <picture align="right"  width="53.5%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"   width="53.5%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"   width="53.5%">
   <img  align="right"   alt="" src=""   width="53.5%">
 </picture>
 
