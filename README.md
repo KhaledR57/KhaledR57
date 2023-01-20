@@ -45,8 +45,9 @@ programming-languages:
 - ## 📫 How to reach me
   <p align="center">
 <!--   <a target="_blank" href="https://www.linkedin.com/in/khaledr57/">
-    <img src="https://img.shields.io/badge/KhaledR57-linkedin-blue?style=flat&logo=linkedin"> -->
-  </a><a href="mailto:khaledriyad57@gmail.com">
+    <img src="https://img.shields.io/badge/KhaledR57-linkedin-blue?style=flat&logo=linkedin">
+  </a> -->
+  <a href="mailto:khaledriyad57@gmail.com">
     <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
