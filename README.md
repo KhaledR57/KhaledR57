@@ -1,4 +1,4 @@
-## Hi there 😴
+## 😴 Hi there 
 
 <!-- 
 $$
@@ -42,7 +42,7 @@ programming-languages:
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
 
-- ## 📫 How to reach me
+## 📫 How to reach me
   <p align="center">
   <a href="mailto:khaledriyad57@gmail.com">
     <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
