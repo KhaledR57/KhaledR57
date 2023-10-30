@@ -1,6 +1,6 @@
  <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=18&pause=1000&color=7DCFFF&center=true&random=false&width=435&lines=Hello+my+friend+%F0%9F%98%84;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=300&size=18&duration=2000&pause=1000&color=7DCFFF&center=true&random=false&width=435&lines=Hello+my+friend+%F0%9F%98%84;Welcome+to+my+profile)](https://git.io/typing-svg)
 
  </div>
 
@@ -46,7 +46,8 @@ programming-languages:
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
 
-## 📫 How to reach me
+##
+
   <p align="center">
   <a href="mailto:khaledriyad57@gmail.com">
     <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
