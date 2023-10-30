@@ -1,4 +1,8 @@
-## 😴 Hi there 
+ <div align="center">
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=18&pause=1000&color=7DCFFF&center=true&random=false&width=435&lines=Hello+my+friend+%F0%9F%98%84;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+ </div>
 
 <!-- 
 $$
