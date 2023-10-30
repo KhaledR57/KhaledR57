@@ -26,12 +26,12 @@ title: Computer Science Student
 interests:
   - AI
   - linux
-  - open source
   - Back-End Dev
+  - open source
 programming-languages:
+  - c/c++
   - java
   - python
-  - c/c++
 ```
 
 <!-- <p align="center"> 
