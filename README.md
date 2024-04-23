@@ -1,6 +1,6 @@
  <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=300&size=18&duration=2000&pause=1000&color=7DCFFF&center=true&random=false&width=435&lines=Hello+my+friend+%F0%9F%98%84;Currently+sleeping+%F0%9F%98%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=300&size=18&duration=2000&pause=1000&color=7DCFFF&center=true&random=false&width=435&lines=Hello+my+friend+%F0%9F%98%84;You+are+e%5E(i%CF%80)+%2B+1+)](https://git.io/typing-svg)
 
  </div>
 
@@ -22,7 +22,7 @@ $$ -->
 name: KhaledR57
 mail: khaledriyad57@gmail.com
 company: null
-title: Computer Science Student
+title: lazy programmer
 interests:
   - AI
   - linux
