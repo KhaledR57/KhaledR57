@@ -22,15 +22,15 @@ $$ -->
 name: KhaledR57
 mail: khaledriyad57@gmail.com
 company: null
-title: lazy programmer
+title: lazy-programmer
 interests:
   - AI
   - linux
-  - Back-End Dev
-  - open source
+  - Back-End
+  - open-source
 programming-languages:
   - c/c++
-  - java
+  - dart
   - python
 ```
 
