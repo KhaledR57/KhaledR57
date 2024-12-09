@@ -20,7 +20,7 @@ $$ -->
 
 ``` yaml
 name: KhaledR57
-mail: khaledriyad57@gmail.com
+mail: khaled57.dev@gmail.com
 company: null
 title: lazy-programmer
 interests:
@@ -49,7 +49,7 @@ programming-languages:
 ##
 
   <p align="center">
-  <a href="mailto:khaledriyad57@gmail.com">
+  <a href="mailto:khaled57.dev@gmail.com">
     <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
