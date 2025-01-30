@@ -56,7 +56,7 @@ programming-languages:
     <img src="https://img.shields.io/badge/Khaled%20Riyad-youtube-red?style=flat&logo=youtube">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Khaled57%234672-discord-blue?style=flat&logo=discord">
+    <img src="https://img.shields.io/badge/Khaled57.-discord-blue?style=flat&logo=discord">
   </a>
   </p>
 <!--
