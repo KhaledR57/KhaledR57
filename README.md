@@ -53,7 +53,7 @@ programming-languages:
     <img src="https://img.shields.io/badge/khaled57.dev-gmail-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
-    <img src="https://img.shields.io/badge/Khaled%20Riyad-youtube-red?style=flat&logo=youtube">
+    <img src="https://img.shields.io/badge/Khaled-youtube-red?style=flat&logo=youtube">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Khaled57.-discord-blue?style=flat&logo=discord">
