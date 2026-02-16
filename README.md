@@ -20,17 +20,17 @@ $$ -->
 
 ``` yaml
 name: KhaledR57
-mail: khaled57.dev@gmail.com
+mail: khaledriyad57@gmail.com
 company: null
 title: lazy-programmer
 interests:
-  - AI
   - linux
   - Back-End
+  - Databases
   - open-source
 programming-languages:
   - c/c++
-  - dart
+  - php
   - python
 ```
 
@@ -49,14 +49,14 @@ programming-languages:
 ##
 
   <p align="center">
-  <a href="mailto:khaled57.dev@gmail.com">
-    <img src="https://img.shields.io/badge/khaled57.dev-gmail-red?style=flat&logo=gmail">
+  <a href="mailto:khaledriyad57@gmail.com">
+    <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
   </a>
 <!--   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
     <img src="https://img.shields.io/badge/Khaled-youtube-red?style=flat&logo=youtube">
   </a> -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Khaled57.-discord-blue?style=flat&logo=discord">
+    <img src="https://img.shields.io/badge/KhaledR57-discord-blue?style=flat&logo=discord">
   </a>
   </p>
 <!--
