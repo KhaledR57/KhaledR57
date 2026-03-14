@@ -1,13 +1,15 @@
+ <!-- 
  <div align="center">
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=300&size=18&duration=2000&pause=1000&color=7DCFFF&center=true&random=false&width=435&lines=Hello+my+friend+%F0%9F%91%8B;+You+are+e%5E(i%CF%80)%2B1+%F0%9F%98%84)](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
  </div>
 
-<!-- 
+
 $$
   e^{iπ} + 1 = 0
-$$ -->
+$$ 
+-->
 
 
 <!-- <img align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  width="53.5%"/> -->
@@ -20,7 +22,7 @@ $$ -->
 
 ``` yaml
 name: KhaledR57
-mail: khaledriyad57@gmail.com
+mail: khaled57.dev@gmail.com
 company: null
 title: lazy-programmer
 interests:
@@ -49,13 +51,13 @@ programming-languages:
 ##
 
   <p align="center">
-  <a href="mailto:khaledriyad57@gmail.com">
-    <img src="https://img.shields.io/badge/khaledriyad57-gmail-red?style=flat&logo=gmail">
+  <a href="mailto:khaled57.dev@gmail.com">
+    <img src="https://img.shields.io/badge/khaled57.dev-gmail-red?style=flat&logo=gmail">
   </a>
 <!--   <a href="https://www.youtube.com/channel/UC3pcIFz_1rFaSKTGnUbSmkA">
     <img src="https://img.shields.io/badge/Khaled-youtube-red?style=flat&logo=youtube">
   </a> -->
-  <a href="#">
+  <a href="https://discord.com/users/482869091548397578">
     <img src="https://img.shields.io/badge/KhaledR57-discord-blue?style=flat&logo=discord">
   </a>
   </p>
